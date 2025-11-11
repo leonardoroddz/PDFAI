@@ -1,1 +1,11 @@
-venv
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
