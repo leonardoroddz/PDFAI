@@ -3,8 +3,8 @@ openai==0.27.8
 chromadb==0.3.29
 pypdf==3.12.2
 streamlit==1.24.1
-tiktoken==0.5.0
 pytesseract
 setuptools>=80.9.0
-Pillow
+tiktoken>=0.7.0
+Pillow>=10.2.0
 python-docx
