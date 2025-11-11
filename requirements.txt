@@ -2,9 +2,9 @@ langchain==0.0.234
 openai==0.27.8
 chromadb==0.3.29
 pypdf==3.12.2
-streamlit>=1.29.0
+streamlit==1.24.1
 pytesseract
 setuptools>=80.9.0
+Pillow<10
 tiktoken>=0.7.0
-Pillow>=10.2.0
 python-docx
